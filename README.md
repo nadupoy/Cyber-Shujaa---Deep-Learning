@@ -45,7 +45,7 @@ By completing the assignment, we would demonstrate our ability to:
 
 We were to complete the following tasks:
 
-1. Load the MNIST dataset `tensorflow.keras.datasets`.
+1. Load the MNIST dataset using `tensorflow.keras.datasets`.
 2. Visualize at least 9 random images with their labels using `matplotlib`.
 3. Normalize the pixel values [0,1] range.
 4. One-hot encode the labels using to `to_categorical`.
